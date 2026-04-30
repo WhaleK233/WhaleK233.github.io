@@ -5,7 +5,7 @@ export default defineConfig({
   description: 'Whale 的个人网站',
   lang: 'zh-CN',
 
-  base: '/',
+  base: '/Whale.github.io/',
 
   themeConfig: {
     logo: false,
