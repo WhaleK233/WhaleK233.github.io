@@ -39,11 +39,20 @@ export default defineConfig({
             { text: '文章列表', link: '/blog/' },
           ]
         }
+      ],
+      '/tools/': [
+        {
+          text: '工具箱',
+          items: [
+            { text: '总览', link: '/tools/' },
+            { text: '计算器', link: '/tools/calculator' },
+          ]
+        }
       ]
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Whale' }
+      { icon: 'github', link: 'https://github.com/WhaleK233' }
     ],
 
     footer: {
