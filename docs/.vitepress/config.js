@@ -61,7 +61,6 @@ export default defineConfig({
               text: '工具箱',
               items: [
                 { text: '总览', link: '/tools/' },
-                { text: '计算器', link: '/tools/calculator' },
               ]
             }
           ]
@@ -109,7 +108,6 @@ export default defineConfig({
               text: 'Tools',
               items: [
                 { text: 'Overview', link: '/en/tools/' },
-                { text: 'Calculator', link: '/en/tools/calculator' },
               ]
             }
           ]
