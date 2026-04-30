@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Whale
+  name: "Whale's Site"
   text: 个人网站 & Wiki
   tagline: 游戏开发 · 技术笔记 · 奇思妙想
   actions:

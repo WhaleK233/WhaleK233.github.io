@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Whale
+  name: "Whale's Site"
   text: Personal Site & Wiki
   tagline: Game Dev · Tech Notes · Ideas
   actions:
